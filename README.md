@@ -77,6 +77,9 @@ Se concluye que haciendo los cálculos analiticamante se obtiene el mismo valor 
 
 5.VIDEO
 
+https://youtu.be/UH0xeactmQY
+
+
 6.CONCLUSIONES
 
 • En el circuito de la practica la corriente entra a los nodos 1, 2 y la corriente se distribuye por las ramas que conforman el nodo.
